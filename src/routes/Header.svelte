@@ -6,7 +6,7 @@
 
 <header>
 	<div class="corner">
-		<a href="https://kit.svelte.dev">
+		<a href="https://kit.svelte.dev" target="_blank">
 			<img src={logo} alt="SvelteKit" />
 		</a>
 	</div>
@@ -32,7 +32,7 @@
 	</nav>
 
 	<div class="corner">
-		<a href="https://github.com/sveltejs/kit">
+		<a href="https://github.com/Kayden1412/Sverdle">
 			<img src={github} alt="GitHub" />
 		</a>
 	</div>
