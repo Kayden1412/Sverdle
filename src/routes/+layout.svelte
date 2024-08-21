@@ -3,6 +3,12 @@
 	import './styles.css';
 </script>
 
+<svelte:head>
+    <title>Sverdle</title>
+    <script async defer src="https://demo.tianji.msgbyte.com/tracker.js" data-website-id="cm03x03dzbxnpevvrpg8zyex4"></script>
+</svelte:head>
+
+
 <div class="app">
 	<Header />
 
